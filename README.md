@@ -10,7 +10,7 @@ In this project, we aim to classify underwater objects using sonar data. Sonar i
 
 The repository includes the following key components:
 
-- `sonar_data.csv`: This CSV file contains the dataset used for training and testing the model. It includes various features extracted from sonar signals, and the corresponding labels indicating whether an object is a rock ('R') or a mine ('M').
+- `sonar_data.csv`: This CSV file contains the dataset used for training and testing the model. It includes various features extracted from sonar signals, and the corresponding labels indicating whether an object is a rock ('R') or a mine ('M') (Note : This data is taken from kaggle).
 
 - `main.py`: This Python script contains the code for loading the dataset, preprocessing it, training a Logistic Regression model, and making predictions. It also includes an example prediction for custom input data.
 
